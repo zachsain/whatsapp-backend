@@ -9,7 +9,7 @@ This app works as a webhook listener using Node and ExpressJS.
 To install this sample, run the following commands:
 
 ```bash
-git clone https://github.com/ngrok/ngrok-webhook-nodejs-sample.git
+git clone https://github.com/zachsain/whatsapp-backend
 cd ngrok-webhook-nodejs-sample
 npm i
 ```
@@ -20,10 +20,6 @@ This will get the project installed locally.
 
 Now you can launch the app:
 
-```bash
-npm start
-```
-Alternativelly, you can run one of the following apps:
     `npm run startFB`
 
 The app runs by default on port 3000
