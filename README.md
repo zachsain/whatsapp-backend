@@ -1,6 +1,6 @@
-# Sample Webhook Listener with Node + Express
+# Webhook Listener with Node + Express
 
-This sample app works as a webhook listener using Node and ExpressJS.
+This app works as a webhook listener using Node and ExpressJS.
 
 **Prerequisites**: [Node.js](https://nodejs.org/en/).
 
